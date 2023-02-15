@@ -5,6 +5,7 @@ public class Manual1 {
     public static void main(String[] args) {
         //I changed the name of manual package from manual to manualtopic
         // I am creating 10 topics of manual testing
+        // I have changed the class name from manual to manual1
 
         System.out.println("1: Static Testing");
         System.out.println("2: Dynamic Testing");

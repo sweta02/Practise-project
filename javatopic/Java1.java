@@ -5,6 +5,7 @@ public class Java1 {
     public static void main(String[] args) {
         /*
         I have refactored java package to java topic
+        I have also changed the java class from java to java1
          */
         System.out.println("1: Java Package");
         System.out.println("2: Java Class");
